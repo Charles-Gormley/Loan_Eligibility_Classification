@@ -1,0 +1,6 @@
+Post Model Analysis
+- Feature Importance Plots
+- Feature Importance Explanation of use
+- Feature Importance Writing.
+
+- Save Confusion matrix as a .png
